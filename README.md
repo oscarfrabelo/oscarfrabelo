@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there 👋
+```js
+const name = 'Oscar Fernando';
+document.write("Hello World");
 
-<!--
-**oscarfrabelo/oscarfrabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 🔭 I’m currently working on projects using PYTHON
+- 🌱 I’m currently learning about java and SQL
+- 📫 How to reach me: Oscarfrabelo004@gmail.com
+- 😄 Pronouns: He/Him 
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/oscarfrabelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscarfrabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <img align="right" alt="Coffee" src="https://media.giphy.com/media/lRjieIGumUci8VWksA/giphy.gif">
+   
